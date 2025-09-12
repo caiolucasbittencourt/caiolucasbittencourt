@@ -20,10 +20,18 @@ Oi! Eu sou o Caio, graduando em Análise e Desenvolvimento de Sistemas, atuando 
 - Design responsivo com TailwindCSS
 - Princípios avançados de UX/UI
 
+## Languages
+
+- **Português**: nativo
+- **Inglês**: intermediário
+- **Espanhol**: avançado
+- **Italiano**: intermediário
+- **Francês**: básico
+
  ## Statistics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=caiolucasbittencourt&locale=en&mode=weekly&theme=graywhite&hide_border=false" height="" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiolucasbittencourt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=false" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiolucasbittencourt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiolucasbittencourt&area=false&hide_title=false&hide_border=false&theme=minimal" height="" alt="activity-graph graph"  />
 </div>
