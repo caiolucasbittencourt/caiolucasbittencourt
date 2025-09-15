@@ -6,12 +6,12 @@
 
 ## About me
 
-Oi! Eu sou o Caio, graduando em Análise e Desenvolvimento de Sistemas, atuando como desenvolvedor front-end e UX/UI designer, sempre buscando soluções inovadoras.
+Oi! Eu sou o Caio, graduando em Análise e Desenvolvimento de Sistemas, atuando como desenvolvedor front-end e UX/UI designer, com foco em criar interfaces intuitivas e que proporcionem a melhor experiência para o usuário.
 
 ## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,nextjs,tailwind,vite,nodejs,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,vue,tailwind,sass,bootstrap,mysql,git,github,vscode,vite,figma,jquery,linux,windows" />
 </p>
 
 ## Studying
@@ -32,6 +32,6 @@ Oi! Eu sou o Caio, graduando em Análise e Desenvolvimento de Sistemas, atuando 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=caiolucasbittencourt&locale=en&mode=weekly&theme=graywhite&hide_border=false" height="" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiolucasbittencourt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiolucasbittencourt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=false" height="" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiolucasbittencourt&area=false&hide_title=false&hide_border=false&theme=minimal" height="" alt="activity-graph graph"  />
 </div>
