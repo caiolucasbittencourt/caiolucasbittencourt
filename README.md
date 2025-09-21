@@ -6,9 +6,9 @@
 
 ## About me
 
-Oi! Eu sou o Caio, graduando em Análise e Desenvolvimento de Sistemas. Atuo como desenvolvedor front-end e designer UX/UI, com foco em criar interfaces intuitivas que proporcionem a melhor experiência para o usuário.
+Oi! Eu sou o Caio, graduando em **Análise e Desenvolvimento de Sistemas**. Atuo como **desenvolvedor front-end** e **designer UX/UI**, com foco em criar interfaces intuitivas que proporcionem a melhor experiência para o usuário.
 
-Atualmente, busco uma oportunidade como Desenvolvedor Front-end para colaborar em projetos desafiadores e continuar crescendo profissionalmente.
+Atualmente, busco uma oportunidade como **desenvolvedor front-end** para colaborar em projetos desafiadores e continuar crescendo profissionalmente.
 
 ## Technologies
 
