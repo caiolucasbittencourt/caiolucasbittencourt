@@ -25,10 +25,9 @@ Atualmente, busco uma oportunidade como **desenvolvedor front-end** para colabor
 ## Languages
 
 - **Português**: nativo
-- **Inglês**: intermediário
+- **Inglês**: intermediário a avançado
 - **Espanhol**: avançado
-- **Italiano**: intermediário
-- **Francês**: básico
+- **Italiano**: básico a intermediário
 
  ## Statistics
 
