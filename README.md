@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=caiolucasbittencourt&label=PROFILE%20VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Visualizações de Perfil"/>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=fff&text=Caio%20Bittencourt&desc=FRONT-END%20DEVELOPER%20|%20UX/UI%20DESIGNER&descAlignY=75&descAlign=50&fontAlignY=50&fontSize=80&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=fff&text=caio.&desc=FRONT-END%20DEVELOPER&descAlignY=75&fontColor=000&textBg=false&animation=twinkling&fontSize=80&descSize=14&descAlign=50&fontAlign=50&fontAlignY=50&reversal=false&section=header"/>
 </div>
 
 ## About me
 
-Oi! Eu sou o Caio, graduando em **Análise e Desenvolvimento de Sistemas**. Atuo como **desenvolvedor front-end** e **designer UX/UI**, com foco em criar interfaces intuitivas que proporcionem a melhor experiência para o usuário.
+Oi! Eu sou o Caio, graduando em **Análise e Desenvolvimento de Sistemas**. Atuo como **desenvolvedor front-end**, com foco em criar interfaces intuitivas que proporcionem a melhor experiência para o usuário.
 
-Atualmente, busco uma oportunidade como **desenvolvedor front-end** para colaborar em projetos desafiadores e continuar crescendo profissionalmente.
+Atualmente, busco oportunidades para colaborar em projetos desafiadores e continuar crescendo profissionalmente.
 
 ## Technologies
 
