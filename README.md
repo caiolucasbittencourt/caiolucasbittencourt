@@ -43,6 +43,6 @@ Atualmente, busco oportunidades para colaborar em projetos desafiadores e contin
  ## Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=caiolucasbittencourt&locale=en&mode=weekly&theme=graywhite&hide_border=false" height="" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiolucasbittencourt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=false" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiolucasbittencourt&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiolucasbittencourt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&order=2" height="" alt="languages graph"  />
 </div>
