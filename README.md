@@ -44,5 +44,5 @@ Atualmente, busco oportunidades para colaborar em projetos desafiadores e contin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiolucasbittencourt&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&border_radius=0&order=1" height="" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiolucasbittencourt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&border_radius=0&order=2" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiolucasbittencourt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=highcontrast&hide_border=true&border_radius=0&order=2" height="" alt="languages graph"  />
 </div>
