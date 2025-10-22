@@ -18,7 +18,6 @@ Atualmente, busco oportunidades para colaborar em projetos desafiadores e contin
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
 [![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![SVELTE](https://img.shields.io/badge/svelte-000000?style=for-the-badge&logo=svelte&logoColor=white)]()
 [![VUE.JS](https://img.shields.io/badge/vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)]()
 [![NODE.JS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![TAILWIND CSS](https://img.shields.io/badge/tailwind_css-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
