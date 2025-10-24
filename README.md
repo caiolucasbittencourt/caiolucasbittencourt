@@ -43,6 +43,6 @@ Atualmente, busco oportunidades para colaborar em projetos desafiadores e contin
  ## Statistics
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=caiolucasbittencourt&show=prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=0" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucasbittencourt&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&langs_count=12&border_radius=0" />
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=caiolucasbittencourt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=0" />
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucasbittencourt&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&langs_count=12&border_radius=0" />
 </div>
