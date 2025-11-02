@@ -6,9 +6,9 @@
 
 ## About me
 
-Oi! Eu sou o Caio, graduando em **Análise e Desenvolvimento de Sistemas**. Atuo como **desenvolvedor front-end**, com foco em criar interfaces intuitivas que proporcionem a melhor experiência para o usuário.
+Sou graduando em **Análise e Desenvolvimento de Sistemas** e **desenvolvedor front-end**, com experiência em criação de interfaces intuitivas, acessíveis e de alta qualidade. Tenho domínio de tecnologias **web** (HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue.js), desenvolvimento **mobile** e PWA, testes automatizados, integração com APIs e boas práticas de **UX/UI**.
 
-Atualmente, busco oportunidades para colaborar em projetos desafiadores e continuar crescendo profissionalmente.
+Busco oportunidades para aplicar minhas habilidades em projetos desafiadores, contribuindo para soluções eficientes, experiência do usuário de excelência e crescimento contínuo, enquanto agrego valor à equipe e à empresa.
 
 ## Technologies
 
