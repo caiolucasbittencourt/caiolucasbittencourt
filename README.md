@@ -6,7 +6,7 @@
 
 ## About me
 
-Sou graduando em **Análise e Desenvolvimento de Sistemas** e **desenvolvedor front-end**, com experiência em criação de interfaces intuitivas, acessíveis e de alta qualidade. Tenho domínio de tecnologias **web** (HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue.js), desenvolvimento **mobile** e PWA, testes automatizados, integração com APIs e boas práticas de **UX/UI**.
+Sou graduando em **Análise e Desenvolvimento de Sistemas** e **desenvolvedor front-end**, com experiência em criação de interfaces intuitivas, acessíveis e de alta qualidade. Tenho domínio de tecnologias **web**, interfaces **mobile**, integração com APIs e boas práticas de **UX/UI**.
 
 Busco oportunidades para aplicar minhas habilidades em projetos desafiadores, contribuindo para soluções eficientes, experiência do usuário de excelência e crescimento contínuo, enquanto agrego valor à equipe e à empresa.
 
