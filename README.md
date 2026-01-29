@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a **Systems Analysis and Development student** and a **Full Stack Developer** focused on building complete, scalable, and high-performance web applications.
+I am a **Systems Analysis and Development** student and a **Full Stack Developer** focused on building complete, scalable, and high-performance web applications.
 
 I have mastered the JavaScript/TypeScript ecosystem, combining modern interfaces with robust server-side logic and relational databases. I aim to create solutions that deliver real value, from database architecture to the final user experience.
 
