@@ -42,14 +42,14 @@ I have mastered the **JavaScript/TypeScript** ecosystem, combining modern interf
 
 ## Studying
 
-- Software Architecture and Scalable Back-end
-- Data Modeling and SQL Optimization
-- React and TypeScript Best Practices
+- Software architecture and scalable back-end
+- Data modeling and SQL optimization
+- React and TypeScript best practices
 
 ## Languages
 
 - **Portuguese**: Native
-- **English**: Intermediate to Advanced
+- **English**: Intermediate to advanced
 - **Spanish**: Advanced
 
  ## Statistics
