@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=caiolucasbittencourt&label=PROFILE%20VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Visualizações de Perfil"/>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=000&text=CAIO&fontColor=fff&desc=FULL%20STACK%20DEVELOPER&descSize=14&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=000&text=CAIO&fontColor=fff&desc=FULL-STACK%20DEVELOPER&descSize=14&animation=twinkling"/>
 </div>
 
 ## About me
 
-Hi, I'm **Caio**! I am a Brazilian **Systems Analysis and Development** student and a **Full Stack Developer** focused on building complete, scalable, and high-performance web applications.
+**Desenvolvedor Full-stack** e graduando em **Análise e Desenvolvimento de Sistemas**, capacitado para atuar em todas as etapas de um projeto de software. 
 
-I have mastered the **JavaScript/TypeScript** ecosystem, combining modern interfaces with robust server-side logic and relational databases. I aim to create solutions that deliver real value, from database architecture to the final user experience.
+Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo aplicações web completas de ponta a ponta: desde a criação de interfaces modernas para o usuário até a estruturação de servidores e bancos de dados relacionais.
 
 ## Technologies
 
@@ -42,15 +42,14 @@ I have mastered the **JavaScript/TypeScript** ecosystem, combining modern interf
 
 ## Studying
 
-- Software architecture and scalable back-end
-- Data modeling and SQL optimization
-- React and TypeScript best practices
+- Arquitetura de software e back-end escalável
+- Modelagem de dados e otimização de SQL
+- Melhores práticas de React e TypeScript
 
 ## Languages
 
-- **Portuguese**: Native
-- **English**: Intermediate to advanced
-- **Spanish**: Advanced
+- **Inglês**: Intermediário
+- **Espanhol**: Avançado
 
  ## Statistics
 
