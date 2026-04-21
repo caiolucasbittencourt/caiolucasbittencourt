@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-**Desenvolvedor Full-stack** e graduando em **Análise e Desenvolvimento de Sistemas**, capacitado para atuar em todas as etapas de um projeto de software. 
+**Desenvolvedor Full-Stack** e graduando em **Análise e Desenvolvimento de Sistemas**, capacitado para atuar em todas as etapas de um projeto de software. 
 
 Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo aplicações web completas de ponta a ponta: desde a criação de interfaces modernas para o usuário até a estruturação de servidores e bancos de dados relacionais.
 
