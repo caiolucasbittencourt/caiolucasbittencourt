@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=caiolucasbittencourt&label=VISUALIZAÇÕES&color=000000&labelColor=000000&style=for-the-badge" alt="Visualizações de Perfil"/>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000000&text=CAIO&desc=FULL-STACK%20DEVELOPER&descSize=14&descAlignY=73&textBg=false&fontColor=ffffff&fontSize=0&fontAlignY=49&reversal=false&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=000000&text=CAIO&fontColor=ffffff&animation=twinkling&fontAlignY=49&desc=DESENVOLVEDOR%20FULL-STACK&descSize=12&descAlignY=72&fontSize=74"/>
 </div>
 
 ## Sobre mim
