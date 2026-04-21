@@ -4,13 +4,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000000&text=CAIO&desc=FULL-STACK%20DEVELOPER&descSize=14&descAlignY=73&textBg=false&fontColor=ffffff&fontSize=0&fontAlignY=49&reversal=false&animation=twinkling"/>
 </div>
 
-## About me
+## Sobre mim
 
 **Desenvolvedor Full-stack** e graduando em **Análise e Desenvolvimento de Sistemas**, capacitado para atuar em todas as etapas de um projeto de software. 
 
 Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo aplicações web completas de ponta a ponta: desde a criação de interfaces modernas para o usuário até a estruturação de servidores e bancos de dados relacionais.
 
-## Technologies
+## Tecnologias
 
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
@@ -39,13 +39,7 @@ Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo a
 [![JEST](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=white)]()
 [![FIGMA](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)]()
 
-## Languages
-
-- **Inglês**: Intermediário
-- **Espanhol**: Avançado
-
- ## Statistics
-
+ ## Estatísticas
 <div align="center">
   <img height="240em" src="https://github-readme-sooty.vercel.app/api?username=caiolucasbittencourt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=0&count_private=true" />
   <img height="240em" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=caiolucasbittencourt&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&langs_count=12&border_radius=0&include_private=true" />
