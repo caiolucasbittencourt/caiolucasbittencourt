@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=caiolucasbittencourt&label=PROFILE%20VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Visualizações de Perfil"/>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=000&text=CAIO&fontColor=fff&desc=FULL-STACK%20DEVELOPER&descSize=14&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000000&text=CAIO&desc=FULL-STACK%20DEVELOPER&descSize=14&descAlignY=73&textBg=false&fontColor=ffffff&fontSize=0&fontAlignY=49&reversal=false&animation=twinkling"/>
 </div>
 
 ## About me
@@ -38,13 +38,6 @@ Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo a
 [![VITE](https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=white)]()
 [![JEST](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=white)]()
 [![FIGMA](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)]()
-
-
-## Studying
-
-- Arquitetura de software e back-end escalável
-- Modelagem de dados e otimização de SQL
-- Melhores práticas de React e TypeScript
 
 ## Languages
 
