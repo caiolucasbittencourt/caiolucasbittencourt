@@ -11,32 +11,9 @@ Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo a
 
 ## Tecnologias
 
-[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
-[![NODE.JS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![TAILWIND CSS](https://img.shields.io/badge/tailwind_css-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
-
-[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white)]()
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![ANGULAR](https://img.shields.io/badge/angular-000000?style=for-the-badge&logo=angular&logoColor=white)]()
-[![EXPRESS.JS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![NESTJS](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=white)]()
-[![GRAPHQL](https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql&logoColor=white)]()
-[![MONGODB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![PRISMA](https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)]()
-[![FIREBASE](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)]()
-[![SUPABASE](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)]()
-[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
-[![VERCEL](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
-[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
-[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
-[![VITE](https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=white)]()
-[![JEST](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=white)]()
-[![FIGMA](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)]()
+<div align="left">
+  <img src="https://api.iconify.design/simple-icons:html5.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:css3.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:javascript.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:typescript.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:react.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:express.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:nestjs.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:graphql.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:mongodb.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:prisma.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:supabase.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:git.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:github.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:jest.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:docker.svg?color=black" width="40" /> <img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=black" width="40" />
+</div>
 
  ## Estatísticas
 <div align="center">
