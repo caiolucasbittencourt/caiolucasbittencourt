@@ -12,106 +12,23 @@ Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo a
 ## Tecnologias
 
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:html5.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:html5.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:html5.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:css3.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:css3.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:css3.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:tailwindcss.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:tailwindcss.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:javascript.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:javascript.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:javascript.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:typescript.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:typescript.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:typescript.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:react.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:react.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:react.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:nextdotjs.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:nextdotjs.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:nodedotjs.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:nodedotjs.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:nodedotjs.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:express.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:express.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:express.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:nestjs.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:nestjs.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:nestjs.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:graphql.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:graphql.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:graphql.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:postgresql.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:postgresql.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:mongodb.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:mongodb.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:mongodb.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:prisma.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:prisma.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:prisma.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:supabase.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:supabase.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:supabase.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:git.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:git.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:git.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:github.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:jest.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:jest.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:jest.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:docker.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:docker.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:docker.svg?color=black" width="36" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:amazonaws.svg?color=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:amazonaws.svg?color=black" />
-    <img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=black" width="36" />
-  </picture>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white" />
 </div>
 
  ## Estatísticas
