@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-**Desenvolvedor Full-Stack** e graduando em **Análise e Desenvolvimento de Sistemas**, capacitado para atuar em todas as etapas de um projeto de software. 
+**Desenvolvedor Full-Stack** e **graduando em Análise e Desenvolvimento de Sistemas**, capacitado para atuar em todas as etapas de um projeto de software. 
 
 Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo aplicações web de ponta a ponta: desde a criação de interfaces modernas para o usuário até a estruturação de servidores, APIs e bancos de dados (SQL e NoSQL).
 
@@ -32,5 +32,5 @@ Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo a
  ## Estatísticas
 <div align="center">
   <img height="240em" src="https://github-readme-sooty.vercel.app/api?username=caiolucasbittencourt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&border_radius=0&count_private=true&include_all_commits=true" />
-  <img height="240em" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=caiolucasbittencourt&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&langs_count=12&border_radius=0&include_private=true" />
+  <img height="240em" src="https://github-readme-sooty.vercel.app/api/top-langs/?username=caiolucasbittencourt&layout=compact&hide_title=true&show_icons=true&theme=dark&hide_border=true&bg_color=000&icon_color=fff&title_color=fff&text_color=ffffff&custom_title=GitHub%20Stats&langs_count=10&border_radius=0&include_private=true" />
 </div>
