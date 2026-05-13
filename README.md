@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=caiolucasbittencourt&label=VISUALIZAÇÕES&color=000000&labelColor=000000&style=for-the-badge" alt="Visualizações de Perfil"/>
-  <br/>
-</div>
-
 ## Sobre mim
 
 **Desenvolvedor Full-stack** e **graduando em Análise e Desenvolvimento de Sistemas**, capacitado para atuar em todas as etapas de um projeto de software. 
