@@ -1,8 +1,8 @@
 ## Sobre mim
 
-**Desenvolvedor Full-stack** e **graduando em Análise e Desenvolvimento de Sistemas**, capacitado para atuar em todas as etapas de um projeto de software. 
+**Software Engineer** focado no ecossistema **JavaScript/TypeScript**, com experiência na construção de aplicações web escaláveis de ponta a ponta. 
 
-Focado no ecossistema **JavaScript/TypeScript** **(React, Node.js)**, construo aplicações web de ponta a ponta: desde a criação de interfaces modernas para o usuário até a estruturação de servidores, APIs e bancos de dados (SQL e NoSQL).
+Atuo desde a ideação de produtos e interfaces até a modelagem de dados, arquitetura de APIs e configuração de infraestrutura.
 
 ## Tecnologias
 
