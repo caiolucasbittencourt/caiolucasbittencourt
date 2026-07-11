@@ -1,8 +1,8 @@
 ## Sobre mim
 
-**Software Engineer** focado no ecossistema **JavaScript/TypeScript**, com experiência na construção de aplicações web escaláveis de ponta a ponta. 
+**Desenvolvedor Full-stack** com mais de **2 anos de experiência**, especializado no ecossistema **JavaScript/TypeScript**. Atuo em diferentes etapas do desenvolvimento, transformando ideias em soluções completas e bem estruturadas.
 
-Atuo desde a ideação de produtos e interfaces até a modelagem de dados, arquitetura de APIs e configuração de infraestrutura.
+Gosto de entender os desafios por trás de cada projeto e buscar soluções que sejam funcionais, intuitivas e fáceis de evoluir. Valorizo código organizado, aprendizado contínuo e boas práticas de desenvolvimento.
 
 ## Tecnologias
 
