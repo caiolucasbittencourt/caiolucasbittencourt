@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full-stack** com mais de **2 anos de experiência**, especializado no ecossistema **JavaScript/TypeScript**. Atuo em diferentes etapas do desenvolvimento, transformando ideias em soluções completas e bem estruturadas.
 
-Gosto de entender os desafios por trás de cada projeto e buscar soluções que sejam funcionais, intuitivas e fáceis de evoluir. Valorizo código organizado, aprendizado contínuo e boas práticas de desenvolvimento.
+Gosto de entender os desafios por trás de cada projeto e buscar alternativas que sejam funcionais, intuitivas e fáceis de evoluir. Valorizo código organizado, aprendizado contínuo e boas práticas de desenvolvimento.
 
 ## Tecnologias
 
